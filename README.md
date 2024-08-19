@@ -30,6 +30,9 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 Version Control System helps to track all changes made o a design in a special record file. This enables the developer or vetting engineer to control the correction process and access reasons for errors, if any. Integrated Development ENvironment refers to a software tool that holds compiler, editor, linker and operating system as an integrated pack fpr immediate use in software development.
 
+Examples of Integrated Develpoments Environments (IDEs) are, PhpStorm, PyCharm, QT Creator, Visual Studio Code
+Examples of Version Control Systems (VCS) are, Git, Subversion, Mercurial, ClearCase, Helix Core
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Rapid change in technology advancement/development. Engineers are encouraged to keep learining and up to date for efficiency. Limited time and infrastructure for project development. This may be sourced from other networks, or alternative lines created. Cmmunication with commissioning agnets, and project managers would help. Constant change in client's requirements inhibits effective tracing and validation mechanism
